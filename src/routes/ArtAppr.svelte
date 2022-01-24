@@ -108,5 +108,6 @@
 	#artwork_nav span {
 		text-decoration: underline;
 		cursor: pointer;
+		font-size: 1.2rem;
 	}
 </style>
