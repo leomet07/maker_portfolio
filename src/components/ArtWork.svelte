@@ -21,6 +21,8 @@
 		align-items: center;
 		justify-content: space-between;
 		margin: auto;
+		padding-top: 5vh;
+		padding-bottom: 5vh;
 	}
 	.preview_img {
 		width: 60%;
