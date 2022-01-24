@@ -94,6 +94,7 @@
 			</div>
 		{/each}
 	</section>
+	<p id="easter_egg">Did you like the work :)?</p>
 </main>
 
 <style>
@@ -109,5 +110,9 @@
 		text-decoration: underline;
 		cursor: pointer;
 		font-size: 1.2rem;
+	}
+	#easter_egg {
+		padding-top: 20vh;
+		padding-bottom: 2vh;
 	}
 </style>
