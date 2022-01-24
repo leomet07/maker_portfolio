@@ -7,7 +7,7 @@
 			how: "Recycled cardboard and foam",
 			when: "2022",
 			dimensions: `9" by 26" by 9"`,
-			img_src: "/img/art_appr/bridge.png",
+			img_src: "/img/art_appr/bridge.jpg",
 		},
 		{
 			title: "Met Project",
